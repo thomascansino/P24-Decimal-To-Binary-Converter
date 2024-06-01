@@ -1,1 +1,1 @@
-# P24-Decimal-To-Binary-Converter
+# Decimal-To-Binary-Converter-24th Project
